@@ -1,6 +1,6 @@
 ### Hello World 👋
 ![myhMARS's GitHub stats](https://github-readme-stats.vercel.app/api?username=myhMARS&show_icons=true&theme=radical)
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myhMARS&theme=radical" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myhMARS&theme=radical&hide_title=true" /> </div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
