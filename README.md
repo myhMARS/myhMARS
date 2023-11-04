@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World 👋
+![myhMARS's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **myhMARS/myhMARS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
