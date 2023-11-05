@@ -1,6 +1,7 @@
 ### Hello World 👋
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=myhMARS&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+<a href="https://wakatime.com/badge/user/018b9af8-b92a-4777-bd4b-6584b458ff88/project/018b9b54-dd27-4b37-b70c-0180b26c23e6"><img src="https://wakatime.com/badge/user/018b9af8-b92a-4777-bd4b-6584b458ff88/project/018b9b54-dd27-4b37-b70c-0180b26c23e6.svg" alt="wakatime"></a>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
