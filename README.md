@@ -3,17 +3,15 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 <a href="https://wakatime.com/badge/user/018b9af8-b92a-4777-bd4b-6584b458ff88/project/018b9b54-dd27-4b37-b70c-0180b26c23e6"><img src="https://wakatime.com/badge/user/018b9af8-b92a-4777-bd4b-6584b458ff88/project/018b9b54-dd27-4b37-b70c-0180b26c23e6.svg" alt="wakatime"></a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 11.9 kB Used in GitHub's Storage 
  > 
-> 🏆 102 Contributions in the Year 2023
+> 🏆 105 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,21 +22,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-🌆 Daytime                47 commits          ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-🌃 Evening                96 commits          ██████████████░░░░░░░░░░░   55.81 % 
-🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+🌞 Morning                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+🌆 Daytime                34 commits          ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+🌃 Evening                65 commits          █████████████░░░░░░░░░░░░   52.42 % 
+🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Tuesday                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Thursday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Friday                   29 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Saturday                 46 commits          ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Sunday                   51 commits          ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+Monday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Tuesday                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Thursday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Friday                   26 commits          █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Saturday                 30 commits          ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Sunday                   34 commits          ███████░░░░░░░░░░░░░░░░░░   27.42 % 
 ```
 
 
@@ -52,12 +50,6 @@ No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +61,7 @@ Python                   5 repos             ███████████�
 
 
 
- Last Updated on 05/11/2023 13:31:45 UTC
+ Last Updated on 05/11/2023 14:33:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
