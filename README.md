@@ -3,9 +3,9 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 <a href="https://wakatime.com/badge/user/018b9af8-b92a-4777-bd4b-6584b458ff88/project/018b9b54-dd27-4b37-b70c-0180b26c23e6"><img src="https://wakatime.com/badge/user/018b9af8-b92a-4777-bd4b-6584b458ff88/project/018b9b54-dd27-4b37-b70c-0180b26c23e6.svg" alt="wakatime"></a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,7 +67,7 @@ Python                   5 repos             ███████████�
 
 
 
- Last Updated on 05/11/2023 05:41:32 UTC
+ Last Updated on 05/11/2023 10:49:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
