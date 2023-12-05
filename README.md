@@ -3,9 +3,9 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20thousand%20lines%20of%20code-blue)
 
@@ -48,15 +48,15 @@ Sunday                   61 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs 22 mins      ██████████████████░░░░░░░   73.81 % 
-C                        3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Vim Script               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Assembly                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Python                   18 hrs 44 mins      ███████████████████░░░░░░   76.64 % 
+C                        3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Vim Script               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Text                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Assembly                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-PyCharm                  16 hrs 39 mins      █████████████████░░░░░░░░   66.94 % 
-Vim                      8 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.06 % 
+PyCharm                  16 hrs 57 mins      █████████████████░░░░░░░░   69.37 % 
+Vim                      7 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
 ```
 
 **I Mostly Code in Python** 
@@ -68,7 +68,7 @@ Python                   5 repos             ███████████�
 
 
 
- Last Updated on 04/12/2023 18:40:08 UTC
+ Last Updated on 05/12/2023 18:39:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
