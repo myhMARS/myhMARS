@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,15 +48,15 @@ Sunday                   63 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 52 mins        █████████████████░░░░░░░░   69.45 % 
-Text                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Vim Script               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Requirements.txt         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Python                   2 hrs 11 mins       █████████████████░░░░░░░░   68.72 % 
+Text                     45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Vim Script               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Requirements.txt         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 30 mins       ███████████████████████░░   93.10 % 
-Vim                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+PyCharm                  2 hrs 39 mins       █████████████████████░░░░   83.49 % 
+Vim                      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 ```
 
 **I Mostly Code in Python** 
@@ -68,7 +68,7 @@ Python                   5 repos             ███████████�
 
 
 
- Last Updated on 08/02/2024 18:40:04 UTC
+ Last Updated on 09/02/2024 18:38:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
