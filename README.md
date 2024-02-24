@@ -13,11 +13,11 @@
 
 > 📦 12.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
+> 🏆 2 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -57,13 +57,14 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             █████████████████████████   100.00 % 
+Python                   5 repos             █████████████████████░░░░   83.33 % 
+Lua                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
 
 
- Last Updated on 23/02/2024 18:38:44 UTC
+ Last Updated on 24/02/2024 18:38:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
