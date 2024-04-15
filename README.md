@@ -3,6 +3,8 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2033%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.9%20thousand%20lines%20of%20code-blue)
@@ -66,7 +68,7 @@ Lua                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 22:57:52 UTC
+ Last Updated on 15/04/2024 18:39:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
