@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,8 +12,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 51.3 kB Used in GitHub's Storage 
- > 
-> 🏆 9 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,16 +46,16 @@ Sunday                   64 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 50 mins      █████████████░░░░░░░░░░░░   50.27 % 
-Vue.js                   10 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   33.46 % 
-JavaScript               2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Text                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   17 hrs 7 mins       ███████████░░░░░░░░░░░░░░   42.89 % 
+Vue.js                   16 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   40.59 % 
+JavaScript               3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+INI                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-PyCharm                  28 hrs 31 mins      ███████████████████████░░   90.52 % 
-VS Code                  2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+PyCharm                  36 hrs 53 mins      ███████████████████████░░   92.36 % 
+VS Code                  2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Neovim                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +68,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2024 18:40:10 UTC
+ Last Updated on 01/06/2024 18:39:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
