@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,6 +12,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 51.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,15 +48,14 @@ Sunday                   64 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   6 hrs 2 mins        ██████████████░░░░░░░░░░░   55.96 % 
-Python                   3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-JavaScript               1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Chameleon                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Python                   1 hr 52 mins        ███████████████████░░░░░░   77.89 % 
+Vue.js                   23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Chameleon                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-PyCharm                  10 hrs 38 mins      █████████████████████████   98.43 % 
-Neovim                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+PyCharm                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,7 +68,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2024 18:41:17 UTC
+ Last Updated on 08/06/2024 18:39:39 UTC
 <!--END_SECTION:waka-->
 
 <!--
