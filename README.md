@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,8 +12,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 51.3 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,14 +46,14 @@ Sunday                   64 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 11 mins      ██████████████████████░░░   87.11 % 
-Jupyter                  1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-PythonStub               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Vue.js                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   12 hrs 49 mins      ██████████████████████░░░   89.36 % 
+Jupyter                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+PythonStub               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Vue.js                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-PyCharm                  11 hrs 41 mins      █████████████████████████   100.00 % 
+PyCharm                  14 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -68,7 +66,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2024 18:41:59 UTC
+ Last Updated on 22/06/2024 18:39:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
