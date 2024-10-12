@@ -13,8 +13,6 @@
 
 > 📦 51.4 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -68,7 +66,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2024 18:45:09 UTC
+ Last Updated on 12/10/2024 18:43:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
