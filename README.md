@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -13,11 +13,9 @@
 
 > 📦 51.4 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -48,26 +46,27 @@ Sunday                   64 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 19 mins       ████████████████████░░░░░   81.52 % 
-Jupyter                  1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Jupyter                  2 hrs 55 mins       ██████████████░░░░░░░░░░░   57.52 % 
+Python                   2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.26 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 25 mins       █████████████████████░░░░   83.05 % 
-Neovim                   1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+PyCharm                  3 hrs 57 mins       ████████████████████░░░░░   78.15 % 
+Neovim                   1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ██████████████████████░░░   90.00 % 
-Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   10 repos            ███████████████████████░░   90.91 % 
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 04/11/2024 18:44:38 UTC
+ Last Updated on 05/11/2024 18:44:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
