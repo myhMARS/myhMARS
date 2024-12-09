@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,8 +12,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 92.4 kB Used in GitHub's Storage 
- > 
-> 🏆 41 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,15 +46,15 @@ Sunday                   66 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 11 mins       █████████████████░░░░░░░░   68.66 % 
-Jupyter                  2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Lua                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python                   4 hrs 59 mins       █████████████░░░░░░░░░░░░   53.18 % 
+Jupyter                  4 hrs 14 mins       ███████████░░░░░░░░░░░░░░   45.17 % 
+Lua                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 14 mins       ██████████████░░░░░░░░░░░   56.15 % 
-Neovim                   3 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.85 % 
+PyCharm                  6 hrs 3 mins        ████████████████░░░░░░░░░   64.64 % 
+Neovim                   3 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.36 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +68,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2024 18:45:31 UTC
+ Last Updated on 09/12/2024 18:49:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
