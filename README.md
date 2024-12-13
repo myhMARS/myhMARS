@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -13,7 +13,7 @@
 
 > 📦 92.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 45 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,13 +48,16 @@ Sunday                   66 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Jupyter                  3 hrs 9 mins        ███████████████░░░░░░░░░░   60.72 % 
-Python                   2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.27 % 
+Python                   3 hrs 29 mins       █████████████░░░░░░░░░░░░   51.89 % 
+Jupyter                  3 hrs 11 mins       ████████████░░░░░░░░░░░░░   47.26 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 9 mins        ███████████████░░░░░░░░░░   60.76 % 
-Neovim                   2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.24 % 
+PyCharm                  4 hrs 15 mins       ████████████████░░░░░░░░░   63.31 % 
+Neovim                   2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.65 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in Python** 
@@ -68,7 +71,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2024 18:49:17 UTC
+ Last Updated on 13/12/2024 18:48:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
