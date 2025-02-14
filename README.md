@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,10 +48,11 @@ Sunday                   70 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     18 mins             ██████████████████░░░░░░░   72.72 % 
+reg                      6 mins              ███████░░░░░░░░░░░░░░░░░░   27.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -65,7 +66,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2025 18:46:03 UTC
+ Last Updated on 14/02/2025 18:44:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
