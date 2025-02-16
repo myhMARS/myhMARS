@@ -3,6 +3,8 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2025%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-256.3%20thousand%20lines%20of%20code-blue)
@@ -11,14 +13,49 @@
 
 > 📦 111.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+🌆 Daytime                106 commits         ████████░░░░░░░░░░░░░░░░░   32.92 % 
+🌃 Evening                161 commits         ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   65 commits          █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Tuesday                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Thursday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Friday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Saturday                 49 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Sunday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   59 mins             ██████████████████░░░░░░░   70.27 % 
+Text                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+reg                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+PyCharm                  59 mins             ██████████████████░░░░░░░   70.30 % 
+VS Code                  25 mins             ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -30,7 +67,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 18:43:06 UTC
+ Last Updated on 16/02/2025 18:42:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
