@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,14 +46,15 @@ Sunday                   70 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   59 mins             ██████████████████░░░░░░░   70.27 % 
-Text                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-reg                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   1 hr 54 mins        ████████████████████░░░░░   79.21 % 
+Text                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+reg                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Image (svg)              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Jupyter                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-PyCharm                  59 mins             ██████████████████░░░░░░░   70.30 % 
-VS Code                  25 mins             ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+PyCharm                  1 hr 59 mins        █████████████████████░░░░   82.47 % 
+VS Code                  25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,7 +68,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2025 18:45:29 UTC
+ Last Updated on 20/02/2025 18:45:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
