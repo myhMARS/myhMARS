@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,15 +46,15 @@ Sunday                   121 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 3 mins        █████████████████░░░░░░░░   66.84 % 
-Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-JavaScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Jupyter                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Vue.js                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Python                   3 hrs 43 mins       ████████████████░░░░░░░░░   65.61 % 
+Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+JavaScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Jupyter                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Vue.js                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 56 mins       ████████████████████░░░░░   81.55 % 
-VS Code                  1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+PyCharm                  4 hrs 56 mins       ██████████████████████░░░   86.96 % 
+VS Code                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +70,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2025 18:46:39 UTC
+ Last Updated on 04/05/2025 18:47:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
