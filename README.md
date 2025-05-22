@@ -3,6 +3,8 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-400.3%20thousand%20lines%20of%20code-blue)
@@ -17,6 +19,44 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+🌆 Daytime                237 commits         ██████████░░░░░░░░░░░░░░░   41.43 % 
+🌃 Evening                252 commits         ███████████░░░░░░░░░░░░░░   44.06 % 
+🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   117 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Tuesday                  63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Wednesday                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Thursday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Friday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Saturday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Sunday                   110 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue.js                   15 hrs 30 mins      ████████████████████░░░░░   78.29 % 
+Python                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+SQL                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+
+🔥 Editors: 
+PyCharm                  19 hrs 46 mins      █████████████████████████   99.77 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -30,7 +70,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 18:50:52 UTC
+ Last Updated on 22/05/2025 18:50:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
