@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,6 +12,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 146.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 242 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,14 +48,14 @@ Sunday                   110 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 3 mins         ████████████████████████░   95.12 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Jupyter                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   4 hrs 5 mins        █████████████████████░░░░   84.09 % 
+Jupyter                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+SQL                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Image (svg)              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Vue.js                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 6 mins         █████████████████████████   100.00 % 
+PyCharm                  4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +71,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2025 18:49:06 UTC
+ Last Updated on 23/06/2025 18:52:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
