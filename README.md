@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,8 +12,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 146.3 kB Used in GitHub's Storage 
- > 
-> 🏆 242 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,14 +46,14 @@ Sunday                   110 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 5 mins        █████████████████████░░░░   84.09 % 
-Jupyter                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-SQL                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Image (svg)              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Vue.js                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Python                   5 hrs 58 mins       ██████████████████████░░░   88.17 % 
+Jupyter                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Image (svg)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Vue.js                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 51 mins       █████████████████████████   100.00 % 
+PyCharm                  6 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +69,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2025 18:52:33 UTC
+ Last Updated on 24/06/2025 18:52:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
