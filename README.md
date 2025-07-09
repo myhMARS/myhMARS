@@ -46,10 +46,11 @@ Sunday                   110 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              ███████████████████████░░   92.52 % 
+Jupyter                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -65,7 +66,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2025 18:53:33 UTC
+ Last Updated on 09/07/2025 18:53:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
