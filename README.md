@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-693%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -13,7 +13,7 @@
 
 > 📦 146.3 kB Used in GitHub's Storage 
  > 
-> 🏆 245 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,14 +48,14 @@ Sunday                   110 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   23 hrs 51 mins      ████████████████████████░   95.44 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-textmate                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Requirements.txt         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Python                   32 hrs 40 mins      ████████████████████████░   95.99 % 
+JSON                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+textmate                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Requirements.txt         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-PyCharm                  24 hrs 59 mins      █████████████████████████   100.00 % 
+PyCharm                  34 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +71,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2025 18:56:06 UTC
+ Last Updated on 25/07/2025 18:55:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
