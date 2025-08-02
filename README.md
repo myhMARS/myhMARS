@@ -3,7 +3,7 @@
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myhMARS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,6 +12,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 146.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,15 +48,15 @@ Sunday                   110 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 hrs 37 mins      ██████████████████████░░░   88.46 % 
-XML                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-textmate                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   25 hrs 23 mins      ██████████████████████░░░   88.90 % 
+textmate                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+XML                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-PyCharm                  25 hrs 2 mins       ████████████████████████░   97.94 % 
-VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+PyCharm                  28 hrs              █████████████████████████   98.08 % 
+VS Code                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +72,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2025 18:55:52 UTC
+ Last Updated on 02/08/2025 18:53:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
