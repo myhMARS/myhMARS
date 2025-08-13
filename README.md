@@ -1,7 +1,7 @@
 ### Hello World 👋
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=myhMARS&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-791%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -10,8 +10,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 146.3 kB Used in GitHub's Storage 
- > 
-> 🏆 246 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,14 +44,14 @@ Sunday                   110 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   36 hrs 55 mins      █████████████████████████   98.39 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Vue.js                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   38 hrs 14 mins      ████████████████████████░   97.51 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+textmate                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Vue.js                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-PyCharm                  37 hrs 31 mins      █████████████████████████   100.00 % 
+PyCharm                  39 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +67,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2025 18:54:19 UTC
+ Last Updated on 13/08/2025 18:53:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
