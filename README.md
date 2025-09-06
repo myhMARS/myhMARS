@@ -1,7 +1,7 @@
 ### Hello World 👋
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=myhMARS&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,14 +44,14 @@ Sunday                   111 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   24 hrs 7 mins       ████████████████████░░░░░   81.32 % 
-textmate                 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-XML                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Python                   26 hrs 46 mins      ██████████████████████░░░   87.71 % 
+JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+textmate                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+XML                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-PyCharm                  29 hrs 40 mins      █████████████████████████   100.00 % 
+PyCharm                  30 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,7 +67,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2025 18:46:46 UTC
+ Last Updated on 06/09/2025 18:43:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
