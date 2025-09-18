@@ -1,7 +1,7 @@
 ### Hello World 👋
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=myhMARS&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,6 +10,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 146.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 251 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,15 +46,15 @@ Sunday                   111 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   29 hrs 26 mins      ███████████████████████░░   92.84 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-textmate                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-RPMSpec                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Python                   30 hrs 36 mins      ██████████████████████░░░   89.10 % 
+textmate                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+RPMSpec                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-PyCharm                  31 hrs 40 mins      █████████████████████████   99.90 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+PyCharm                  34 hrs 19 mins      █████████████████████████   99.91 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 **I Mostly Code in Python** 
@@ -68,7 +70,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2025 18:48:55 UTC
+ Last Updated on 18/09/2025 18:49:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
