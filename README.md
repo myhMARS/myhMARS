@@ -1,7 +1,7 @@
 ### Hello World 👋
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=myhMARS&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C391%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C397%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,11 +11,11 @@
 
 > 📦 146.3 kB Used in GitHub's Storage 
  > 
-> 🏆 251 Contributions in the Year 2025
+> 🏆 252 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -46,16 +46,15 @@ Sunday                   111 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 hrs 43 mins      ████████████████████░░░░░   81.02 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-SQL                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Jupyter                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-textmate                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Python                   27 hrs 18 mins      █████████████████████░░░░   85.06 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+SQL                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+INI                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Vue.js                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-PyCharm                  27 hrs 8 mins       ████████████████████████░   96.78 % 
-DataGrip                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+PyCharm                  31 hrs 25 mins      ████████████████████████░   97.89 % 
+DataGrip                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
@@ -72,7 +71,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2025 18:56:47 UTC
+ Last Updated on 18/12/2025 18:55:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
