@@ -1,16 +1,16 @@
 ### Hello World 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C477%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C478%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.66%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 125.7 kB Used in GitHub's Storage 
  > 
-> 🏆 299 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,15 +45,14 @@ Sunday                   110 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   40 hrs 30 mins      ██████████████████████░░░   87.34 % 
-Jinja2                   2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-JSON                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python                   33 hrs 41 mins      ██████████████████████░░░   86.76 % 
+Jinja2                   2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+JSON                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-PyCharm                  46 hrs 20 mins      █████████████████████████   99.91 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+PyCharm                  38 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +68,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:52:58 UTC
+ Last Updated on 01/01/2026 18:53:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
