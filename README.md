@@ -1,5 +1,6 @@
 ### Hello World 👋
-<img herf="https://github-readme-streak-stats.herokuapp.com/?user=myhMARS"/>
+<img herf="https://github-readme-streak-stats.herokuapp.com/?user=myhMARS"></img>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C558%20hrs%2059%20mins-blue?style=flat)
 
