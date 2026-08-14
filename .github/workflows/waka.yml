@@ -18,5 +18,8 @@ jobs:
           SHOW_UPDATED_DATE: True
           SHOW_OS: False
           SHOW_PROJECTS: False
+          # 去掉 AI 相关统计
+          SHOW_AI_CODE_TIME: False
+          SHOW_AI_CODING: False
           # 时间线
           SHOW_LOC_CHART: False
