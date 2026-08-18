@@ -31,30 +31,30 @@ Developer based in `0xFFFF0`. I build sandboxes, command-line tools, and monitor
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C538%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C545%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.20%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.75%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10307 commits       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-🌆 Daytime                30310 commits       ███████████████░░░░░░░░░░   58.46 % 
-🌃 Evening                10815 commits       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-🌙 Night                  414 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+🌞 Morning                10609 commits       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+🌆 Daytime                31276 commits       ███████████████░░░░░░░░░░   58.51 % 
+🌃 Evening                11144 commits       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+🌙 Night                  423 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   10003 commits       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Tuesday                  9815 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Wednesday                10674 commits       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Thursday                 8159 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Friday                   10991 commits       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Saturday                 2079 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Sunday                   125 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Monday                   10288 commits       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Tuesday                  10097 commits       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Wednesday                10990 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Thursday                 8458 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Friday                   11367 commits       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Saturday                 2127 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Sunday                   125 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 
@@ -64,18 +64,18 @@ Sunday                   125 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 hrs 11 mins      ██████████████████░░░░░░░   71.10 % 
-Markdown                 3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Other                    1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-SQL                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Rust                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Python                   21 hrs 50 mins      ██████████████████░░░░░░░   71.32 % 
+Other                    1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Markdown                 1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+SQL                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-PyCharm                  17 hrs 25 mins      ███████████████░░░░░░░░░░   61.35 % 
-Claude Code              6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-VS Code                  3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-DataGrip                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-RustRover                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+PyCharm                  17 hrs 52 mins      ███████████████░░░░░░░░░░   58.35 % 
+Claude Code              8 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+VS Code                  3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+DataGrip                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+RustRover                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 19:20:45 UTC
+ Last Updated on 18/08/2026 19:20:53 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
