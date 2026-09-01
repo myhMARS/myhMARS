@@ -17,7 +17,7 @@ Based at `0xFFFF0` — where every program begins.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,rust,kotlin,go,c,ts,vue,bash,lua,nodejs" width="100%" alt="Python, Rust, Kotlin, Go, C, TypeScript, Vue.js, Bash, Lua, Node.js" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,elasticsearch,redis,postgresql,mysql" width="100%" alt="Docker, Linux, Nginx, Elasticsearch, Redis, PostgreSQL, MySQL" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,elasticsearch,redis,postgresql,mysql,rabbitmq,kafka,mongodb" width="100%" alt="Docker, Linux, Nginx, Elasticsearch, Redis, PostgreSQL, MySQL, RabbitMQ, Kafka, MongoDB" />
 </p>
 
 <!--START_SECTION:waka-->
