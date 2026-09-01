@@ -11,7 +11,7 @@
 
 <br/>
 
-Developer based in `0xFFFF0`. I build sandboxes, command-line tools, and monitoring dashboards — with an eye for clean code and getting the details right.
+Based at `0xFFFF0` — where every program begins.
 
 ## 🛠 Tech Stack
 
