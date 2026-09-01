@@ -16,7 +16,7 @@ Based at `0xFFFF0` — where every program begins.
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,rust,kotlin,go,c,ts,vue,bash,docker,linux" width="100%" alt="Python, Rust, Kotlin, Go, C, TypeScript, Vue.js, Bash, Docker, Linux" />
+  <img src="https://skillicons.dev/icons?i=py,rust,kotlin,go,c,ts,vue,bash,docker,linux,elasticsearch,redis,postgresql,mysql,lua,nginx,nodejs" width="100%" alt="Python, Rust, Kotlin, Go, C, TypeScript, Vue.js, Bash, Docker, Linux, Elasticsearch, Redis, PostgreSQL, MySQL, Lua, Nginx, Node.js" />
 </p>
 
 <!--START_SECTION:waka-->
