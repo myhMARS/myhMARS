@@ -21,29 +21,29 @@ Based at `0xFFFF0` — where every program begins.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2443%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2448%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.30%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.21%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                18184 commits       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-🌆 Daytime                55604 commits       ███████████████░░░░░░░░░░   59.32 % 
-🌃 Evening                19313 commits       █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-🌙 Night                  633 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+🌞 Morning                18446 commits       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+🌆 Daytime                56413 commits       ███████████████░░░░░░░░░░   59.32 % 
+🌃 Evening                19594 commits       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+🌙 Night                  639 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   17377 commits       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Tuesday                  17088 commits       █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Wednesday                18677 commits       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Thursday                 16211 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Friday                   21009 commits       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Saturday                 3247 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Monday                   17637 commits       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Tuesday                  17317 commits       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Wednesday                18921 commits       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Thursday                 16507 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Friday                   21306 commits       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Saturday                 3279 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 Sunday                   125 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
@@ -54,15 +54,15 @@ Sunday                   125 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs 34 mins      ███████████████████░░░░░░   75.11 % 
-Bash                     1 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Docker                   0 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Json                     0 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-TOML                     0 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Python                   18 hrs 9 mins       ██████████████████░░░░░░░   71.83 % 
+Bash                     1 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Docker                   1 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+TOML                     0 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+.env file                0 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-Pycharm                  24 hrs 15 mins      █████████████████████████   98.11 % 
-Datagrip                 0 hrs 28 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Pycharm                  25 hrs 4 mins       █████████████████████████   99.17 % 
+Datagrip                 0 hrs 13 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +78,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 21:26:14 UTC
+ Last Updated on 11/09/2026 21:30:47 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
