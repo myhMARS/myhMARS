@@ -21,29 +21,29 @@ Based at `0xFFFF0` — where every program begins.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2464%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2468%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.56%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.90%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16160 commits       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-🌆 Daytime                49351 commits       ███████████████░░░░░░░░░░   59.27 % 
-🌃 Evening                17200 commits       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-🌙 Night                  558 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+🌞 Morning                16286 commits       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+🌆 Daytime                49755 commits       ███████████████░░░░░░░░░░   59.28 % 
+🌃 Evening                17337 commits       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+🌙 Night                  561 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   15515 commits       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Tuesday                  15133 commits       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Wednesday                16501 commits       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Thursday                 14656 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Friday                   18492 commits       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-Saturday                 2847 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Monday                   15630 commits       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Tuesday                  15247 commits       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Wednesday                16636 commits       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Thursday                 14798 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Friday                   18640 commits       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Saturday                 2863 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 Sunday                   125 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
@@ -54,16 +54,16 @@ Sunday                   125 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 27 mins      ████████████████░░░░░░░░░   65.47 % 
-Rust                     0 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Markdown                 0 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Bash                     0 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-TOML                     0 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Python                   12 hrs 26 mins      ████████████████░░░░░░░░░   63.94 % 
+Rust                     1 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Markdown                 0 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Bash                     0 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+TOML                     0 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-Pycharm                  15 hrs 26 mins      ████████████████████████░   96.62 % 
-Datagrip                 0 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Rustrover                0 hrs 2 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Pycharm                  17 hrs 37 mins      ███████████████████████░░   90.54 % 
+Rustrover                1 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Datagrip                 0 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +79,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 21:11:52 UTC
+ Last Updated on 20/09/2026 21:12:08 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
