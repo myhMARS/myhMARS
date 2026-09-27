@@ -54,16 +54,16 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 10 mins      █████████████████░░░░░░░░   68.70 % 
-Rust                     3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-TOML                     0 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Bash                     0 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Plain_text               0 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   11 hrs 11 mins      ██████████████████░░░░░░░   71.32 % 
+Rust                     2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+TOML                     0 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Bash                     0 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Plain_text               0 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Pycharm                  15 hrs 20 mins      ████████████████████░░░░░   80.02 % 
-Rustrover                3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Datagrip                 0 hrs 5 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Pycharm                  13 hrs 9 mins       █████████████████████░░░░   83.88 % 
+Rustrover                2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Datagrip                 0 hrs 4 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +79,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 21:39:29 UTC
+ Last Updated on 27/09/2026 21:46:48 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
