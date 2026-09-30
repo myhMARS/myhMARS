@@ -21,29 +21,29 @@ Based at `0xFFFF0` — where every program begins.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2492%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2493%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.64%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.98%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16204 commits       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-🌆 Daytime                49490 commits       ███████████████░░░░░░░░░░   59.31 % 
-🌃 Evening                17202 commits       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-🌙 Night                  549 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+🌞 Morning                16330 commits       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+🌆 Daytime                49890 commits       ███████████████░░░░░░░░░░   59.31 % 
+🌃 Evening                17340 commits       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+🌙 Night                  552 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   15571 commits       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Tuesday                  15169 commits       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Wednesday                16486 commits       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Thursday                 14973 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Friday                   18387 commits       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-Saturday                 2773 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Monday                   15691 commits       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Tuesday                  15292 commits       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Wednesday                16610 commits       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Thursday                 15113 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Friday                   18531 commits       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Saturday                 2789 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 Sunday                   86 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
@@ -54,16 +54,15 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.99 % 
-Rust                     7 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.63 % 
-Markdown                 0 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Bash                     0 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Plain_text               0 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Rust                     7 hrs 20 mins       ██████████████░░░░░░░░░░░   57.60 % 
+Python                   4 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.80 % 
+Markdown                 0 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+TOML                     0 hrs 9 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Bash                     0 hrs 9 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-Pycharm                  9 hrs 0 mins        █████████████░░░░░░░░░░░░   53.81 % 
-Rustrover                7 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.94 % 
-Datagrip                 0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Rustrover                7 hrs 57 mins       ████████████████░░░░░░░░░   62.45 % 
+Pycharm                  4 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.55 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +78,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 22:49:56 UTC
+ Last Updated on 30/09/2026 22:49:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
