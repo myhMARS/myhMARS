@@ -54,15 +54,12 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     3 hrs 51 mins       ██████████████████░░░░░░░   72.93 % 
-Python                   0 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Markdown                 0 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-TOML                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Dockerfile               0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Rust                     0 hrs 12 mins       ██████████████████████░░░   87.08 % 
+Markdown                 0 hrs 1 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+TOML                     0 hrs 1 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔥 Editors: 
-Rustrover                4 hrs 12 mins       ████████████████████░░░░░   79.36 % 
-Pycharm                  1 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Rustrover                0 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +75,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:32:21 UTC
+ Last Updated on 06/10/2026 23:01:08 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
