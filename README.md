@@ -21,7 +21,7 @@ Based at `0xFFFF0` — where every program begins.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2507%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2507%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,16 +54,16 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 47 mins       ████████████░░░░░░░░░░░░░   46.87 % 
-Rust                     5 hrs 1 mins        █████████░░░░░░░░░░░░░░░░   34.71 % 
-TOML                     0 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Markdown                 0 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-SQL                      0 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Python                   6 hrs 43 mins       ████████████░░░░░░░░░░░░░   46.65 % 
+Rust                     5 hrs 1 mins        █████████░░░░░░░░░░░░░░░░   34.85 % 
+TOML                     0 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Markdown                 0 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+SQL                      0 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Pycharm                  8 hrs 32 mins       ███████████████░░░░░░░░░░   59.02 % 
-Rustrover                5 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.52 % 
-Datagrip                 0 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Pycharm                  8 hrs 29 mins       ███████████████░░░░░░░░░░   58.86 % 
+Rustrover                5 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.68 % 
+Datagrip                 0 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 Vscode                   0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
@@ -80,7 +80,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 22:12:30 UTC
+ Last Updated on 11/10/2026 22:39:02 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
