@@ -21,29 +21,29 @@ Based at `0xFFFF0` — where every program begins.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2507%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2512%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.22%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.32%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                18265 commits       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-🌆 Daytime                55957 commits       ███████████████░░░░░░░░░░   59.40 % 
-🌃 Evening                19385 commits       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-🌙 Night                  597 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+🌞 Morning                19037 commits       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+🌆 Daytime                58398 commits       ███████████████░░░░░░░░░░   59.43 % 
+🌃 Evening                20214 commits       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+🌙 Night                  615 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   17464 commits       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Tuesday                  17076 commits       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Wednesday                18465 commits       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Thursday                 17275 commits       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Friday                   20785 commits       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Saturday                 3053 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Monday                   18182 commits       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Tuesday                  17785 commits       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Wednesday                19203 commits       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Thursday                 18133 commits       █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Friday                   21698 commits       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Saturday                 3177 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 Sunday                   86 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
@@ -54,17 +54,17 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 43 mins       ████████████░░░░░░░░░░░░░   46.65 % 
-Rust                     5 hrs 1 mins        █████████░░░░░░░░░░░░░░░░   34.85 % 
-TOML                     0 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Markdown                 0 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-SQL                      0 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Python                   11 hrs 21 mins      ██████████████░░░░░░░░░░░   56.67 % 
+Rust                     5 hrs 1 mins        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+TOML                     1 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Markdown                 0 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Dbn-sql                  0 hrs 19 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-Pycharm                  8 hrs 29 mins       ███████████████░░░░░░░░░░   58.86 % 
-Rustrover                5 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.68 % 
-Datagrip                 0 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Vscode                   0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Pycharm                  14 hrs 0 mins       █████████████████░░░░░░░░   69.92 % 
+Rustrover                5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+Datagrip                 0 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Vscode                   0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +80,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:39:02 UTC
+ Last Updated on 13/10/2026 01:13:47 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
