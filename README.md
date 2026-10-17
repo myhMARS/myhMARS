@@ -54,17 +54,15 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 9 mins       ████████████████░░░░░░░░░   64.65 % 
-Rust                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-TOML                     1 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Markdown                 1 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Json                     1 hrs 0 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Python                   13 hrs 34 mins      ████████████████░░░░░░░░░   63.50 % 
+Rust                     3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Markdown                 1 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Json                     0 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+TOML                     0 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🔥 Editors: 
-Pycharm                  24 hrs 29 mins      ████████████████████████░   97.92 % 
-Datagrip                 0 hrs 18 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Rustrover                0 hrs 13 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Vscode                   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Pycharm                  21 hrs 5 mins       █████████████████████████   98.60 % 
+Datagrip                 0 hrs 18 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +78,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 21:56:24 UTC
+ Last Updated on 17/10/2026 21:11:22 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
