@@ -21,7 +21,7 @@ Based at `0xFFFF0` — where every program begins.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2549%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2549%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,17 +54,17 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 53 mins      █████████████████░░░░░░░░   66.77 % 
-Markdown                 1 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Kotlin                   1 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-TOML                     1 hrs 0 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Python                   13 hrs 51 mins      █████████████████░░░░░░░░   66.72 % 
+Markdown                 1 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Kotlin                   1 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+TOML                     1 hrs 0 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 Docker                   0 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-Pycharm                  17 hrs 54 mins      ██████████████████████░░░   86.08 % 
-Androidstudio            1 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Datagrip                 0 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Rustrover                0 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Pycharm                  17 hrs 52 mins      ██████████████████████░░░   86.05 % 
+Androidstudio            1 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Datagrip                 0 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Rustrover                0 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 Vscode                   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -81,7 +81,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:53:19 UTC
+ Last Updated on 24/10/2026 21:26:14 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
