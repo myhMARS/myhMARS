@@ -21,7 +21,7 @@ Based at `0xFFFF0` — where every program begins.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2568%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2568%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -54,15 +54,15 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 33 mins      ████████████████░░░░░░░░░   65.55 % 
-Markdown                 2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Python                   12 hrs 32 mins      ████████████████░░░░░░░░░   65.54 % 
+Markdown                 2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 TOML                     1 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 Rust                     0 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 Docker                   0 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
 Pycharm                  17 hrs 54 mins      ███████████████████████░░   93.51 % 
-Rustrover                1 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Rustrover                1 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 Datagrip                 0 hrs 11 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
@@ -79,7 +79,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 22:56:33 UTC
+ Last Updated on 31/10/2026 22:10:08 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
