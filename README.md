@@ -21,29 +21,29 @@ Based at `0xFFFF0` — where every program begins.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2581%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2583%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.07%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-78.13%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                30836 commits       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-🌆 Daytime                95609 commits       ███████████████░░░░░░░░░░   59.75 % 
-🌃 Evening                32726 commits       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌙 Night                  855 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+🌞 Morning                31400 commits       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+🌆 Daytime                97480 commits       ███████████████░░░░░░░░░░   59.76 % 
+🌃 Evening                33342 commits       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌙 Night                  902 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   29106 commits       █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Tuesday                  28737 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Wednesday                30660 commits       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Thursday                 31011 commits       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Friday                   35596 commits       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Saturday                 4830 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Monday                   29646 commits       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Tuesday                  29278 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Wednesday                31247 commits       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Thursday                 31689 commits       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Friday                   36280 commits       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Saturday                 4898 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 Sunday                   86 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
@@ -54,33 +54,33 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 hrs 44 mins      ██████████████████░░░░░░░   71.23 % 
-TOML                     1 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Markdown                 1 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Rust                     1 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-SQL                      0 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Python                   18 hrs 20 mins      ███████████████████░░░░░░   76.24 % 
+Markdown                 1 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Rust                     0 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+TOML                     0 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+SQL                      0 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-Pycharm                  24 hrs 21 mins      ███████████████████████░░   92.51 % 
-Rustrover                1 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Datagrip                 0 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Androidstudio            0 hrs 5 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Pycharm                  22 hrs 40 mins      ████████████████████████░   94.17 % 
+Datagrip                 1 hrs 0 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Androidstudio            0 hrs 13 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Rustrover                0 hrs 11 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ████████████░░░░░░░░░░░░░   48.39 % 
-Rust                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-XSLT                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Python                   15 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Rust                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+XSLT                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 04/11/2026 00:04:29 UTC
+ Last Updated on 05/11/2026 00:20:46 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
