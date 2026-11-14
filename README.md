@@ -21,7 +21,7 @@ Based at `0xFFFF0` — where every program begins.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2604%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2604%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,17 +54,17 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 19 mins       ███████████████████░░░░░░   76.31 % 
-Kotlin                   0 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-TOML                     0 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Markdown                 0 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Typescript               0 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Python                   9 hrs 11 mins       ███████████████████░░░░░░   76.03 % 
+Kotlin                   0 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TOML                     0 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Markdown                 0 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Typescript               0 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-Pycharm                  11 hrs 23 mins      ███████████████████████░░   93.12 % 
-Androidstudio            0 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Vscode                   0 hrs 7 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Datagrip                 0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Pycharm                  11 hrs 14 mins      ███████████████████████░░   93.03 % 
+Androidstudio            0 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Vscode                   0 hrs 7 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Datagrip                 0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +80,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 00:13:31 UTC
+ Last Updated on 14/11/2026 23:03:34 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
