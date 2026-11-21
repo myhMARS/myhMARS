@@ -21,7 +21,7 @@ Based at `0xFFFF0` — where every program begins.
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2622%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2622%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,15 +54,15 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 hrs 54 mins      █████████████████████░░░░   82.38 % 
-Rust                     0 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Markdown                 0 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-TOML                     0 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Python                   14 hrs 54 mins      █████████████████████░░░░   82.58 % 
+Rust                     0 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Markdown                 0 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+TOML                     0 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 Bash                     0 hrs 18 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-Pycharm                  16 hrs 23 mins      ███████████████████████░░   90.60 % 
-Rustrover                1 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Pycharm                  16 hrs 21 mins      ███████████████████████░░   90.58 % 
+Rustrover                1 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 Vscode                   0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Datagrip                 0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -80,7 +80,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 00:35:02 UTC
+ Last Updated on 21/11/2026 23:54:31 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
